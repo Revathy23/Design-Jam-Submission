@@ -1,0 +1,14 @@
+body{
+	font-family: 'Lemonada', cursive;
+	background-color: #000000;
+}
+
+
+.bg-dark {
+    background-color: #000000!important;
+}
+
+ hr.style11 {  height: 10px;
+      border: 0;
+      box-shadow: 0 10px 10px -10px #8c8b8b inset;
+      }
